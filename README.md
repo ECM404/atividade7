@@ -8,7 +8,7 @@
 
 **ATENÇÃO!! Essa atividade é um questionário. NÃO há entrega no moodle!!**
 
-- [**Link para o questionário**](./https://imt.myopenlms.net/mod/quiz/view.php?id=132163)
+- [**Link para o questionário**](https://imt.myopenlms.net/mod/quiz/view.php?id=132163)
 
 Para clonar a lista de forma adequada, utilize o seguinte comando no terminal:
 ```bash
