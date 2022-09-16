@@ -36,7 +36,7 @@ int main ()
     InserirAresta (&g, 1, 5, 3);
     InserirAresta (&g, 1, 6, 9);
     InserirAresta (&g, 2, 6, 7);
-    InserirAresta (&g, 2, 6, 9);
+    InserirAresta (&g, 2, 7, 9);
     InserirAresta (&g, 3, 4, 8);
     InserirAresta (&g, 3, 8, 1);
     InserirAresta (&g, 4, 5, 1);
